@@ -26,6 +26,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: DeployScript
-        run: /var/www/util/deployGHapplication.sh
+        run: /var/www/utils/deployGHapplication.sh
 
  
